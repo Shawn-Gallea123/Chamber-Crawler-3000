@@ -7,7 +7,7 @@ Waleed Qaisar
 John Fernandes
 
 
-
+Run make to build executable
 Execute with ./cc-3k from terminal
 
 Instructions:
